@@ -22,7 +22,7 @@ values-sr: Serbian</br>
 values-th: Thai</br>
 values-tr: Turkish</br>
 values-uk: Ukrainian</br>
-values-vn: Vietnamese</br>
+values-vi: Vietnamese</br>
 values-zh-rTW: Traditional Chinese</br>
 values-zh: Chinese</br>
 values: English (default language) <- Always up to date</br>
